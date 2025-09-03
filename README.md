@@ -24,7 +24,7 @@ Currently:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day5">
-        <img src="https://learn.nextwork.org/projects/static/aws-codedeploy.png"
+        <img src="./day5.png"
              alt="AWS CodeDeploy Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -68,7 +68,7 @@ Currently:
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradleydavel&theme=github_dark" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradleydavel&theme=algolia" alt="GitHub streak stats" />
 </p>
 
 ---
