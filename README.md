@@ -68,7 +68,7 @@ Currently:
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradleydavel&theme=github_dark" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradleydavel&theme=transparent" alt="GitHub streak stats" />
 </p>
 
 ---
