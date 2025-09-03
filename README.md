@@ -23,17 +23,17 @@ Currently:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/BradleyDavel/Deploy-Backend-with-Kubernetes.git">
+      <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day5">
         <img src="./1.png"
              alt="Deploy Backend with Kubernetes"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Deploy Backend with Kubernetes</b><br/>
-      <sub>Set up the backend of an app for deployment.</sub><br/>
-      🔗 <a href="https://github.com/BradleyDavel/Deploy-Backend-with-Kubernetes.git">Repo</a>
+      <b>Deploy a Web App with CodeDeploy</b><br/>
+      <sub>Day 5 - Deploy a Web App</sub><br/>
+      🔗 <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day5">Repo</a>
       <br/>
-      <sub>Tags: AWS, EKS, Kubernetes</sub>
+      <sub>Tags: AWS, CodeBuild, code deploy</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day6">
