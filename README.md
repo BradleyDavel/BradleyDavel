@@ -33,7 +33,7 @@ Currently:
       <sub>Set up the backend of an app for deployment.</sub><br/>
       🔗 <a href="https://github.com/BradleyDavel/Deploy-Backend-with-Kubernetes.git">Repo</a>
       <br/>
-      <sub>Tags: AWS, CodeDeploy, CI/CD</sub>
+      <sub>Tags: AWS, EKS, Kubernetes</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day6">
