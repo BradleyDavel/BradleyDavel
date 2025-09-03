@@ -23,15 +23,15 @@ Currently:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day5">
-        <img src="./day5.png"
-             alt="AWS CodeDeploy Project"
+      <a href="https://github.com/BradleyDavel/Deploy-Backend-with-Kubernetes.git">
+        <img src="./1.png"
+             alt="Deploy Backend with Kubernetes"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Day 5 — CodeDeploy (EC2)</b><br/>
-      <sub>Automated deployment to EC2 with AWS CodeDeploy, blue/green strategy, and rollback safety.</sub><br/>
-      🔗 <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day5">Repo</a>
+      <b>Deploy Backend with Kubernetes</b><br/>
+      <sub>Set up the backend of an app for deployment.</sub><br/>
+      🔗 <a href="https://github.com/BradleyDavel/Deploy-Backend-with-Kubernetes.git">Repo</a>
       <br/>
       <sub>Tags: AWS, CodeDeploy, CI/CD</sub>
     </td>
