@@ -37,7 +37,7 @@ Currently:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day6">
-        <img src="https://learn.nextwork.org/projects/static/aws-cloudformation.png"
+        <img src="./day6.png"
              alt="AWS CloudFormation Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -50,7 +50,7 @@ Currently:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day7">
-        <img src="https://learn.nextwork.org/projects/static/aws-codepipeline.png"
+        <img src="./day7.png"
              alt="AWS CodePipeline Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
