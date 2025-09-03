@@ -8,8 +8,8 @@ I'm a **DevOps Engineer** from South Africa, passionate about building scalable 
 Currently:  
 - 🔭 Building advanced **DevOps and Cloud Security labs** (AWS, VMware, pfSense, CI/CD).  
 - 🌱 Preparing for the **AWS Certified DevOps Engineer – Professional** exam.  
-- 🛡️ Applying my **SOC + Cloud Security background** to real-world DevOps pipelines.  
-- 📫 Reach me: **bradley.davel@outlook.com**  
+- 🛡️ Applying my **SOC + Cloud Security background** to real-world DevOps pipelines.
+   
 # 
 ### 🛠️ Languages & Tools
 
@@ -65,15 +65,16 @@ Currently:
 </table>
 
 
-
+# 
 ### 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradleydavel&theme=github_dark" alt="GitHub streak stats" />
 </p>
 
----
+# 
 
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/bradleydavel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bradley.davel@outlook.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
