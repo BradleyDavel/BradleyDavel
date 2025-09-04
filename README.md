@@ -67,9 +67,7 @@ Currently:
 
 # 
 ### 📊 GitHub Stats  
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=BradleyDavel&theme=dark&background=000000EC&border=1122EB&ring=111AEB&fire=1125EB&currStreakLabel=1118EB" alt="GitHub Streak" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BradleyDavel&theme=transparent&border=1113EB&dates=FFFFFF" alt="GitHub Streak" /></a>
 
 # 
 
