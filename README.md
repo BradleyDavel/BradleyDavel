@@ -24,7 +24,7 @@ Currently:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/BradleyDavel/AWS-DevOps-Project_Day5">
-        <img src="./1.png"
+        <img src="./day5.png"
              alt="Deploy Backend with Kubernetes"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -67,9 +67,9 @@ Currently:
 
 # 
 ### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradleydavel&theme=github_dark" alt="GitHub streak stats" />
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=BradleyDavel&theme=dark&background=000000EC&border=1122EB&ring=111AEB&fire=1125EB&currStreakLabel=1118EB" alt="GitHub Streak" />
+</a>
 
 # 
 
