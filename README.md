@@ -1,21 +1,28 @@
 # Hi, I'm Bradley Davel 👋
-**`DevOps | Cloud Security | Infrastructure Automation`**
 
+**`Senior Platform & Cloud Security Engineer | AWS | Kubernetes | Infrastructure Automation`**
 
-### 🚀 About Me  
-I'm a **DevOps Engineer** from South Africa, passionate about building scalable infrastructure, automating everything, and securing cloud environments. My journey bridges hands-on system administration, full-stack development, and **cloud-native DevOps practices** across AWS, Docker, Kubernetes, and CI/CD pipelines.  
-   
-# 
-### 🛠️ Languages & Tools
+### 🚀 About Me
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,terraform,linux,python,javascript,php,mysql,androidstudio&theme=light)](https://skillicons.dev)
-</br>
+I'm a **Senior Platform & Cloud Security Engineer with 6+ years of experience** across cloud infrastructure, platform engineering, software development, and security.
 
+I design, build, and operate **secure, scalable, and cost-efficient cloud-native platforms**, with a focus on **AWS, Kubernetes, Infrastructure as Code, and automation**. My work spans multi-region architecture, CI/CD and GitOps, cloud security, observability, and internal developer tooling.
 
-# 
+I enjoy turning complex infrastructure into **reliable, repeatable building blocks** that help engineering teams ship faster without sacrificing security or operational excellence. I'm particularly interested in **platform engineering, developer experience, cloud security, and AI infrastructure**.
 
-### 🌐 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/bradleydavel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bradley.davel@outlook.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### 🛠️ Technologies & Tools
+
+**Cloud & Infrastructure:** AWS · Kubernetes (EKS) · Docker · Terraform · Terragrunt · Helm
+
+**Delivery & Automation:** GitHub Actions · Argo CD · GitOps · CI/CD · Python · Bash
+
+**Security & Reliability:** IAM · Cloud Security · DevSecOps · Observability · Grafana · Prometheus
+
+**Development:** JavaScript · Python · Git · Linux
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,githubactions,linux,python,bash,grafana,prometheus,javascript&theme=light)](https://skillicons.dev)
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-davel/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bradley.davel@outlook.com)
