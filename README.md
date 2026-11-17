@@ -12,14 +12,6 @@ I enjoy turning complex infrastructure into **reliable, repeatable building bloc
 
 ### 🛠️ Technologies & Tools
 
-**Cloud & Infrastructure:** AWS · Kubernetes (EKS) · Docker · Terraform · Terragrunt · Helm
-
-**Delivery & Automation:** GitHub Actions · Argo CD · GitOps · CI/CD · Python · Bash
-
-**Security & Reliability:** IAM · Cloud Security · DevSecOps · Observability · Grafana · Prometheus
-
-**Development:** JavaScript · Python · Git · Linux
-
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,githubactions,linux,python,bash,grafana,prometheus,javascript&theme=light)](https://skillicons.dev)
 
 ### 🌐 Connect with Me
